@@ -46,3 +46,47 @@ C:\Users\Gabriel\source\repos\TPInvestigacion\TPInvestigacion\bin\Debug\netcorea
 C:\Users\Gabriel\source\repos\TPInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.Views.pdb
 C:\Users\Gabriel\source\repos\TPInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.dll
 C:\Users\Gabriel\source\repos\TPInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.pdb
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\Views\web.config
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\TPInvestigacion.exe
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\TPInvestigacion.deps.json
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\TPInvestigacion.runtimeconfig.json
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\TPInvestigacion.runtimeconfig.dev.json
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\TPInvestigacion.dll
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\TPInvestigacion.pdb
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\TPInvestigacion.Views.dll
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\TPInvestigacion.Views.pdb
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\Entidades.dll
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\Servicios.dll
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\Entidades.pdb
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\bin\Debug\netcoreapp3.0\Servicios.pdb
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.csprojAssemblyReference.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\staticwebassets\TPInvestigacion.StaticWebAssets.Manifest.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\staticwebassets\TPInvestigacion.StaticWebAssets.xml
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.RazorAssemblyInfo.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.RazorAssemblyInfo.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.AssemblyInfoInputs.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.AssemblyInfo.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.TagHelpers.input.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.TagHelpers.output.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.RazorCoreGenerate.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\CalculadoraComisiones\CalcularComision.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\CalculadoraComisiones\VerOperaciones.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\Presentacion\Bienvenido.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_MiLayout.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.RazorTargetAssemblyInfo.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.RazorTargetAssemblyInfo.cs
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.Views.pdb
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.csproj.CopyComplete
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.dll
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\TPInvestigacion\obj\Debug\netcoreapp3.0\TPInvestigacion.pdb

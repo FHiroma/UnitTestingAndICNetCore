@@ -23,3 +23,11 @@ C:\Users\Gabriel\source\repos\TPInvestigacion\Servicios\obj\Debug\Servicios.cspr
 C:\Users\Gabriel\source\repos\TPInvestigacion\Servicios\obj\Debug\Servicios.csproj.CopyComplete
 C:\Users\Gabriel\source\repos\TPInvestigacion\Servicios\obj\Debug\Servicios.dll
 C:\Users\Gabriel\source\repos\TPInvestigacion\Servicios\obj\Debug\Servicios.pdb
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\Servicios\bin\Debug\Servicios.dll
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\Servicios\bin\Debug\Servicios.pdb
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\Servicios\bin\Debug\Entidades.dll
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\Servicios\bin\Debug\Entidades.pdb
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\Servicios\obj\Debug\Servicios.dll
+D:\Escritorio\Facultad\Programación Web 3\TpInvestigacion\Servicios\obj\Debug\Servicios.pdb

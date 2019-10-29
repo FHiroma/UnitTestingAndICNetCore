@@ -9,7 +9,7 @@ namespace NUnitTest
     [TestFixture]
     public class CortoPlazoTests
     {
-        [TestCase]
+        [Test]
         public void TestQueCompruebaQueSeCalculaCorrectamenteUnaComision()
         {
             //Arrage o Preparación
@@ -22,7 +22,7 @@ namespace NUnitTest
             double actual = cp.CalcularComision();
 
             //Assert ó Contrastación
-            Assert.Equals(expected, actual);
+            Assert.AreEqual(expected, actual);
         }
     }
 }
