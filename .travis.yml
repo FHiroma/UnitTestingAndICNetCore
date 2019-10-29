@@ -1,10 +1,9 @@
 language: csharp
-mono: latest
-dotnet: 3.0
-solution: TPInvestigacion.sln
-install: 
-  - .NETFramework 4.7.2 
+mono: none
+dotnet: 3.0.1
+dist: trusty
 script:
-  - dotnet restore
-  - dotnet build
-  - dotnet test
+ - cd UnitTestMSTest.Test
+ - dotnet restore
+ - dotnet build
+ - dotnet test
