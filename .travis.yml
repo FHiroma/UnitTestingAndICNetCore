@@ -3,7 +3,8 @@ mono: none
 dotnet: 3.0.100
 solution: TPInvestigacion.sln
 install:
-  - sudo apt-get install -qq dotnet-sdk-2.0.0
+  - sudo apt-get install -qq dotnet-sdk-4.7.2
+  - bash ./tools/travis-install-dependencies.sh
 script:
  - cd UnitTestMSTest.Test
  - dotnet restore
