@@ -1,7 +1,6 @@
 language: csharp
 mono: none
 dotnet: 3.0.100
-solution: TPInvestigacion.sln
 script:
  - dotnet build UnitTestMSTest.Test
  - dotnet restore
