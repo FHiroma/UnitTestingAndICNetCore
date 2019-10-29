@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj": {}
+    "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj": {
+    "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj"
+        "projectPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Entidades\\Entidades.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj": {
+    "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Servicios\\Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj",
+        "projectUniqueName": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Servicios\\Servicios.csproj",
         "projectName": "Servicios",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj",
+        "projectPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Servicios\\Servicios.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj"
+              "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -35,17 +35,20 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj": {
+    "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj",
+        "projectUniqueName": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj",
         "projectName": "TPInvestigacion",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj",
-        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\obj\\",
+        "projectPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj",
+        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
+        "outputPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\TPInvestigacion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,11 +61,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj"
+              "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Entidades\\Entidades.csproj"
               },
-              "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj": {
-                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj"
+              "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Servicios\\Servicios.csproj": {
+                "projectPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Servicios\\Servicios.csproj"
               }
             }
           }
@@ -75,12 +78,6 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "dependencies": {
-            "Microsoft.AspNet.WebApi.Core": {
-              "target": "Package",
-              "version": "[5.2.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

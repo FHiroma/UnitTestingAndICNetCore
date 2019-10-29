@@ -6888,19 +6888,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel\\.nuget\\packages\\": {}
+    "C:\\Users\\Fernando\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\UnitTestMSTest.Test\\UnitTestMSTest.Test.csproj",
+      "projectUniqueName": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\UnitTestMSTest.Test\\UnitTestMSTest.Test.csproj",
       "projectName": "UnitTestMSTest.Test",
-      "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\UnitTestMSTest.Test\\UnitTestMSTest.Test.csproj",
-      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\UnitTestMSTest.Test\\obj\\",
+      "projectPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\UnitTestMSTest.Test\\UnitTestMSTest.Test.csproj",
+      "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
+      "outputPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\UnitTestMSTest.Test\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6913,8 +6917,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj"
+            "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\Escritorio\\Facultad\\Programación Web 3\\TpInvestigacion\\Entidades\\Entidades.csproj"
             }
           }
         }
