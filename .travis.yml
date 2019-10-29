@@ -1,7 +1,9 @@
 language: csharp
 mono: none
-dotnet: 3.0
+dotnet: 3.0.100
 solution: TPInvestigacion.sln
+install:
+  - sudo apt-get install -qq dotnet-sdk-2.0.0
 script:
  - cd UnitTestMSTest.Test
  - dotnet restore
