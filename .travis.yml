@@ -1,8 +1,7 @@
 language: csharp
-mono: none
 dotnet: 3.0.100
 script:
- - dotnet build UnitTestMSTest.Test
+ - cd UnitTestMSTest.Test
  - dotnet restore
  - dotnet build
  - dotnet test
