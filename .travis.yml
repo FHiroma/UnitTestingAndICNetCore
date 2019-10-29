@@ -2,6 +2,8 @@ language: csharp
 mono: latest
 dotnet: 3.0
 solution: TPInvestigacion.sln
+install: 
+  - .NETFramework 4.7.2 
 script:
   - dotnet restore
   - dotnet build
